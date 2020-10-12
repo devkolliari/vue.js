@@ -1,4 +1,4 @@
-# example
+# vue-countdown
 
 ## Project setup
 ```
