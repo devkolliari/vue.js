@@ -1,5 +1,7 @@
 # vue-countdown
 
+Update the date/time in Counter.vue to update the countdown start time. Once the countdown reaches 0, a message will appear letting you know the timer is done.
+
 ## Project setup
 ```
 npm install
